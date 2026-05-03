@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-class SimpleBankingSystem {
+class BankAccount {
     String accountName;
     double balance;
 
